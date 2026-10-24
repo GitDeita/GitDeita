@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 **About me**
 
 I am a computer-science/software engineering major, tech enthusiast, and retro tech admirer. I am currently a freshman, unemployed(for now), and am forever eager to improve my knowledge in the programming world.
+
 ---
