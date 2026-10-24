@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there
 
 <!--
 **GitDeita/GitDeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**About me
+I am a computer-science/software engineering major, tech enthusiast, and retro tech admirer. I am currently a freshman, unemployed(for now), and am forever eager to improve my knowledge in the programming world.
+---
